@@ -38,6 +38,6 @@ Building upon the current insights, potential future enhancements for this proje
 [FILL THIS SECTION: GitHub Link]
 
 ## Contact
-*   Email: amazonppc.mjosh@gmail.com
+*   Email: vargas.michaeljoshua@gmail.com
 *   LinkedIn: https://www.linkedin.com/in/mljosh/
 *   GitHub: https://github.com/mjoshua97241
